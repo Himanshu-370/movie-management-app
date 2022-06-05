@@ -1,7 +1,6 @@
-import React, { useState, useEffect } from "react";
+import React, { useState } from "react";
 import Swal from "sweetalert2";
 
-// import Login from "./Login";
 import Header from "./Header";
 import List from "./List";
 import Add from "./Add";
